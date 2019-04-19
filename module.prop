@@ -1,7 +1,6 @@
 id=EvenwellDebloater
 name=Evenwell Debloater
-version=v1.0
-versionCode=10
+version=v1.1
+versionCode=11
 author=Akilesh
 description=Debloat Evenwell apps Systemless-ly!
-minMagisk=1700
